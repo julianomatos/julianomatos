@@ -26,8 +26,8 @@ Sou Desenvolvedor **Full Stack** apaixonado por tecnologia, com foco em **Front-
 
 ## 💻 Projetos em Destaque
 
-- [**Gerenciador de Tarefas (Node.js + Prisma)**](https://github.com/JulianoRamosMatos/task-manager-api)  
-  API RESTful com CRUD completo, autenticação com JWT e arquitetura em camadas.
+- [**Localizador de serviços de apoio para afetados pela enchente**](https://github.com/julianomatos/ajuda-tche)  
+  Front end com HTML/CSS/JS.
 
 ## 🎯 Objetivo
 
